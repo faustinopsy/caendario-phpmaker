@@ -1,0 +1,1 @@
+[09-May-2020 18:37:32 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/faust537/apps.rodrigofaustino.com.br/app/novo/menu/aceita.php:29) in /home2/faust537/apps.rodrigofaustino.com.br/app/novo/menu/aceita.php on line 61

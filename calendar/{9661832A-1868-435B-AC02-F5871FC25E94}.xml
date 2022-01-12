@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2020/05/05" author="e.World Technology Ltd.">
+  <project id="{9661832A-1868-435B-AC02-F5871FC25E94}" file="C:\Users\Flash\Documents\PHPMaker\Projects\calendar.pmp" name="calendar" product="PHPMaker" version="13.0" datetime="2020/05/05 19:27:38" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="usuarios" name="usuarios" caption="usuarios" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="calendar_php" name="calendar.php" caption="calendario" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
